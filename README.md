@@ -3,7 +3,7 @@
 </div> 
 <br/>
 
-## <div align="center">I'm Tanmay Jaiswal 😀 | CSE UNDERGRAD 🔥</div>  
+## <div align="center">I'm Prashant Kumar Singh 😀 | CSE UNDERGRAD 🔥</div>  
 
 
 - 🌱 I’m currently learning MERN Stack Development
@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to dsa, competitive programming and web development  
   
   
-- 🔍 Reach me at: ✉️ tanmayjaiswal31102002@gmail.com
+- 🔍 Reach me at: ✉️ rajpootprashant1604@gmail.com
 
 
 - 😂 Here is a random joke that'll make you chuckle!
