@@ -27,10 +27,10 @@
 </br>
 
 ##  Workspace Setup
-<img src="https://www.notebookcheck.net/fileadmin/Notebooks/AMD/ryzen5_badge.jpg" width=50px height=50px>
+<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width=50px height=50px>
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <br/>
 <br/>
 
@@ -40,11 +40,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/tanmayjaiswal27748/" target="_blank">
+<a href="https://www.linkedin.com/in/prashant-kumar-singh-902240200/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/tanmay_jaiswal__/" target="_blank">
+<a href="https://www.instagram.com/predat0r_1604/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <!-- <a href="https://www.facebook.com/tanmay_jaiswal/" target="_blank">
