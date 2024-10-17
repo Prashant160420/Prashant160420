@@ -19,6 +19,8 @@
 
 ![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
 
+[![An image of @prashant160420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashant160420)](https://holopin.io/@prashant160420)
+
 
 
 ## My Skill Set  
@@ -69,9 +71,7 @@
 ![snake gif](https://github.com/Prashant160420/Prashant160420/blob/output/github-contribution-grid-snake.svg)
 
 <br/>   
-## My Badges
-[![An image of @prashant160420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashant160420)](https://holopin.io/@prashant160420)
-<br/>
+
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
